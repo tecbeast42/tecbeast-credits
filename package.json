@@ -1,0 +1,8 @@
+{
+  "name": "tecbeast-credits",
+  "version": "1.0.0",
+  "description": "Just display credits to console",
+  "main": "index.js",
+  "author": "TecBeast",
+  "license": "MIT"
+}
